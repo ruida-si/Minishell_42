@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "chrono": "c",
+        "span": "c",
+        "type_traits": "c",
+        "minishell.h": "c"
+    }
+}
